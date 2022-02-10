@@ -1,0 +1,41 @@
+.l{
+    text-decoration: none;
+    color: rgb(146, 213, 240);
+   
+  }
+  .articlelist h2{
+    text-align: left;
+    text-shadow: #c8ccc1 2px solid;
+    color:rgb(156, 79, 182);
+    font-family: sans-serif;
+    font-style: italic;
+  }
+  .articlelist h3{
+    text-align: left;
+    text-shadow: #556b2f 2px solid;
+    color:rgba(247, 75, 238, 0.89);
+    font-family:sans-serif;
+    font-style: italic;
+  }
+  .articlelist{
+      border: wheat 1px solid;
+      padding: 3px;
+
+  }
+  .articlelist button{
+    border: wheat 1px solid;
+    padding: 10px;
+    margin: 5px;
+    background-color: thistle;
+    font-family: sans-serif;
+    font-style: italic;
+    width: 100px;
+    border-radius: 10%;
+    
+}
+.articlelist button:hover{
+
+    background-color: rgb(153, 221, 43);
+   
+    
+}
